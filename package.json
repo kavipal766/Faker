@@ -1,0 +1,28 @@
+{
+  "name": "pagination",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.3",
+    "pug": "2.0.0-beta11",
+    "save": "^2.3.2"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
